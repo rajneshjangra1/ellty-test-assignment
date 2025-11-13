@@ -1,0 +1,26 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #f5f7fb;
+  color: #111827;
+  margin: 0;
+  padding: 0;
+}
+
+.component {
+  max-width: 420px;
+  margin: 5rem auto;
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(16,24,40,0.08);
+  text-align: center;
+}
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 12px;
+}
